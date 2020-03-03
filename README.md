@@ -16,4 +16,5 @@ E. ML Modeling
   - Fully Connected Neural Network
 F. Analysis of results
 
+
 Further steps suggest to explore different features and analyze correlation of variables with target variable to evaluate if the selected variables contribute to produce an ML model.
