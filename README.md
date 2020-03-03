@@ -6,10 +6,15 @@ The dataset can be found at https://www.eia.gov/consumption/residential/data/200
 # Energy-Consumption-ML
 The jupyter notebook presents the first modeling stage to find relevant variables that will producte a ML model with an acceptable overall performace.
 The jupyter notebooks includes:
+
 A. Exploratory Analysis
+
 B. Multicolinearity Analysis
+
 C. Data Cleaning 
+
 D. Feature Selection
+
 E. ML Modeling
   - Linear Regression
   - Random Forest Regressor
